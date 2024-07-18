@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-18T09:47:55 IST" name="Suite" finished-at="2024-07-18T09:48:47 IST" duration-ms="51992">
+    <groups>
+    </groups>
+    <test started-at="2024-07-18T09:47:55 IST" name="Test" finished-at="2024-07-18T09:48:47 IST" duration-ms="51992">
+      <class name="com.qe.project.testcases.LumaApplication_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:47:49 IST" name="setUp" finished-at="2024-07-18T09:47:55 IST" duration-ms="6340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="Luma()[pri:0, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:47:56 IST" name="Luma" finished-at="2024-07-18T09:47:56 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Luma -->
+        <test-method signature="Gear()[pri:1, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:47:56 IST" name="Gear" finished-at="2024-07-18T09:47:58 IST" duration-ms="1993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gear -->
+        <test-method signature="productClick()[pri:2, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:47:58 IST" name="productClick" finished-at="2024-07-18T09:48:02 IST" duration-ms="4405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productClick -->
+        <test-method signature="quantity()[pri:3, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:02 IST" name="quantity" finished-at="2024-07-18T09:48:05 IST" duration-ms="2848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quantity -->
+        <test-method signature="addToKart()[pri:4, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:05 IST" name="addToKart" finished-at="2024-07-18T09:48:06 IST" duration-ms="1144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToKart -->
+        <test-method signature="addToKartIcon()[pri:5, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:06 IST" name="addToKartIcon" finished-at="2024-07-18T09:48:08 IST" duration-ms="2353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToKartIcon -->
+        <test-method signature="veiwEditKart()[pri:6, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:08 IST" name="veiwEditKart" finished-at="2024-07-18T09:48:12 IST" duration-ms="3935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veiwEditKart -->
+        <test-method signature="proccedCheckOut()[pri:7, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:12 IST" name="proccedCheckOut" finished-at="2024-07-18T09:48:20 IST" duration-ms="7380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proccedCheckOut -->
+        <test-method signature="enterEmail()[pri:8, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:20 IST" name="enterEmail" finished-at="2024-07-18T09:48:22 IST" duration-ms="1856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterEmail -->
+        <test-method signature="firstName()[pri:9, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:22 IST" name="firstName" finished-at="2024-07-18T09:48:26 IST" duration-ms="4614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstName -->
+        <test-method signature="lasttName()[pri:10, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:26 IST" name="lasttName" finished-at="2024-07-18T09:48:29 IST" duration-ms="2476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lasttName -->
+        <test-method signature="address()[pri:11, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:29 IST" name="address" finished-at="2024-07-18T09:48:31 IST" duration-ms="2443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- address -->
+        <test-method signature="city()[pri:12, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:31 IST" name="city" finished-at="2024-07-18T09:48:34 IST" duration-ms="2373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- city -->
+        <test-method signature="stateProvince()[pri:13, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:34 IST" name="stateProvince" finished-at="2024-07-18T09:48:37 IST" duration-ms="3666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stateProvince -->
+        <test-method signature="pinCode()[pri:14, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:37 IST" name="pinCode" finished-at="2024-07-18T09:48:39 IST" duration-ms="1348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pinCode -->
+        <test-method signature="country()[pri:15, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:39 IST" name="country" finished-at="2024-07-18T09:48:40 IST" duration-ms="1826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country -->
+        <test-method signature="phoneNo()[pri:16, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:40 IST" name="phoneNo" finished-at="2024-07-18T09:48:43 IST" duration-ms="2488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phoneNo -->
+        <test-method signature="NextEnd()[pri:17, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:43 IST" name="NextEnd" finished-at="2024-07-18T09:48:44 IST" duration-ms="1239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NextEnd -->
+        <test-method signature="placeOrder()[pri:18, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:44 IST" name="placeOrder" finished-at="2024-07-18T09:48:47 IST" duration-ms="3348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qe.project.testcases.LumaApplication_Test@6c6cb480]" started-at="2024-07-18T09:48:48 IST" name="tearDown" finished-at="2024-07-18T09:48:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qe.project.testcases.LumaApplication_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
